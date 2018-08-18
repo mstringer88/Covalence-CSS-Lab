@@ -70,3 +70,35 @@ h1 {
 .new {
     color: darkslategrey;
 }
+
+#Rank1 {
+    color: midnightblue;
+}
+
+#Rank2 {
+    color: crimson;
+}
+
+#Rank3 {
+    color: brown;
+}
+
+#Rank4 {
+    color: silver;
+}
+
+#Rank5 {
+    color: chartreuse;
+}
+
+.friends {
+    color: red;
+}
+
+.placesToVisit {
+    color: blue;
+}
+
+.favoriteRestaurants {
+    color: green;
+}
