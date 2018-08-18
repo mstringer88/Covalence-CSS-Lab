@@ -40,11 +40,7 @@ span {
 }
 
 #box2 {
-    background-color: darkgray;
-    position: relative;
-    left: 180px;
-    bottom: 170px;
-    
+    background-color: darkgray; 
 }
 
 #box3 {
@@ -53,4 +49,24 @@ span {
 
 #box4 {
     background-color: purple;
+}
+
+.image {
+    width: 1em;
+    height: 1em;
+    background-color: yellow;
+    display: inline;
+    position: relative;
+}
+
+h1 {
+    color: red;
+}
+
+.original {
+    color: orange;
+}
+
+.new {
+    color: darkslategrey;
 }
