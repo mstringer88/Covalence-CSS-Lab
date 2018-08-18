@@ -93,12 +93,15 @@ h1 {
 
 .friends {
     color: red;
+    border: solid black 2px;
 }
 
 .placesToVisit {
     color: blue;
+    border: solid black 2px;
 }
 
 .favoriteRestaurants {
     color: green;
+    border: solid black 2px;
 }
