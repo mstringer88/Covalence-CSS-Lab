@@ -16,9 +16,37 @@ a {
 }
 
 .boxes{
-    display: inline-block;
+    display: block;
     margin: 1em;
     padding: 1em;
     border: solid;
     border-radius: 2em;
+    width: 20%;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: 700;
+    color: green;
+}
+
+span {
+    color: blue;
+    font-weight: 900
+}
+
+#box1 {
+    background-color: magenta;
+}
+
+#box2 {
+    background-color: darkgray;
+}
+
+#box3 {
+    background-color: red;
+}
+
+#box4 {
+    background-color: purple;
 }
